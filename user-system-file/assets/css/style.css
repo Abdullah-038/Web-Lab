@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(135deg, #4e73df, #1cc88a);
+    min-height: 100vh;
+}
+
+.card {
+    border-radius: 15px;
+}
+
+.navbar {
+    background-color: #2d3436 !important;
+}
